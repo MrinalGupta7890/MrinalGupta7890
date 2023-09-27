@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/MrinalGupta7890/MrinalGupta7890/blob/main/Untitled%20design.png)
+![logo](https://github.com/MrinalGupta7890/MrinalGupta7890/blob/main/Untitled%20design.png)
 
 <h1 align="center">Hi 👋, I'm Mrunal Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
