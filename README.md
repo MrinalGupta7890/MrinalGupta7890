@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://rishavchanda.io)
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="😂" width="1000" height="400"/>
 
 <h1 align="center">Hi 👋, I'm Mrunal Gupta</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
