@@ -2,10 +2,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="😂" width="600" height="200"/>
 <div/>
 
-<!-- <div align="center"> -->
-<!-- <img align="center" height="200px" width="500px" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"> -->
-<!-- </div> -->
-
 <h1 align="center">Hi 👋, I'm Mrunal Gupta</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
 
