@@ -11,11 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalgupta7890&label=Profile%20views&color=0e75b6&style=flat&label=PROFILE+VIEWS&color=orange" alt="mrinalgupta7890" /> </p>
 
-- 🌱 I’m currently learning **Reactjs** <a href="https://www.react.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="20" height="20"/> </a>
+- <p align="left">🌱 I’m currently learning <strong>Reactjs</strong> <a href="https://www.react.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="20" height="20"/> </a></p>
 
-- 📫 How to reach me **mrinalgupta7890@gmail.com**
+- <p align="left">📫 How to reach me <strong>mrinalgupta7890@gmail.com</strong></p>
 
-- ⚡ Fun fact **I think i am funny** <a> <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="😂" width="20" height="20"/> </a>
+- <p align="left">⚡ Fun fact <strong>I think i am funny</strong> <a> <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="😂" width="20" height="20"/> </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
